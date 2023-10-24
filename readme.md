@@ -1,7 +1,7 @@
 # Generative Adversarial Networks (GANs)
 
 
-![img](https://github.com/SahilJain8/Generative-Adversarial-Networks-GANs-/assets/68115080/a7bb208f-8d70-4722-9f16-c1a3a3293d61)
+![img_1](https://github.com/SahilJain8/Generative-Adversarial-Networks-GANs-/assets/68115080/b7dc554b-dc74-49e9-8331-ffa74f9ba1b3)
 
 GANs work by using two neural networks: a generator and a discriminator. The generator creates data, while the discriminator evaluates how real that data looks. They train in a competitive manner:
 
