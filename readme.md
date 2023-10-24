@@ -25,7 +25,8 @@ GANs have been successful in generating various types of data, including images 
 
 ## Loss funtion 
 
-![Alt Text](img.png) 
+![img](https://github.com/SahilJain8/Generative-Adversarial-Networks-GANs-/assets/68115080/a7bb208f-8d70-4722-9f16-c1a3a3293d61)
+
 In Generative Adversarial Networks (GANs), there are two primary loss functions:
 
 #### Generator Loss: 
