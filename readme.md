@@ -1,7 +1,7 @@
 # Generative Adversarial Networks (GANs)
 
 
-![Alt Text](img_1.png) 
+![Alt Text](https://www.google.com/imgres?imgurl=https%3A%2F%2Flh4.googleusercontent.com%2FyAT4vN1GFT8D0QUDMAReZS0BLD_vi7KZc-AE02RFWI9ZVSQHLqKTTthtgx_BK-DlKOeFDgtkA3byl9VMHPEI0r5ZTn1nKYLbeEflJuspuykXcNMOmEmXomWZzMwdzUBbxf-BlkjJ&tbnid=hXalGgUIxn3iGM&vet=12ahUKEwipw8e3946CAxX35TgGHSx-A6kQMygAegQIARBP..i&imgrefurl=https%3A%2F%2Fneptune.ai%2Fblog%2Fgan-loss-functions&docid=g3NLtNOXH4QF1M&w=754&h=133&q=loss%20function%20gans&ved=2ahUKEwipw8e3946CAxX35TgGHSx-A6kQMygAegQIARBP) 
 
 GANs work by using two neural networks: a generator and a discriminator. The generator creates data, while the discriminator evaluates how real that data looks. They train in a competitive manner:
 
