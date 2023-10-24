@@ -1,7 +1,7 @@
 # Generative Adversarial Networks (GANs)
 
 
-![Alt Text](readme-utils/img_1.png) 
+![Alt Text](img_1.png) 
 
 GANs work by using two neural networks: a generator and a discriminator. The generator creates data, while the discriminator evaluates how real that data looks. They train in a competitive manner:
 
@@ -15,7 +15,7 @@ It distinguishes between real and generated data, learning to assign high probab
 The generator minimizes its loss, making its output more convincing. The discriminator maximizes its loss, improving its ability to classify.
 
 
-![Alt Text](readme-utils/img_2.png) 
+![Alt Text](img_2.png) 
 
 ##### Generating Data: 
 Once trained, the generator can create new data samples by inputting random noise.
@@ -25,7 +25,7 @@ GANs have been successful in generating various types of data, including images 
 
 ## Loss funtion 
 
-![Alt Text](readme-utils/img.png) 
+![Alt Text](img.png) 
 In Generative Adversarial Networks (GANs), there are two primary loss functions:
 
 #### Generator Loss: 
