@@ -15,7 +15,8 @@ It distinguishes between real and generated data, learning to assign high probab
 The generator minimizes its loss, making its output more convincing. The discriminator maximizes its loss, improving its ability to classify.
 
 
-![Alt Text](img_2.png) 
+![img_2](https://github.com/SahilJain8/Generative-Adversarial-Networks-GANs-/assets/68115080/52662b66-06b7-4479-97a8-a46467c5a0ea)
+
 
 ##### Generating Data: 
 Once trained, the generator can create new data samples by inputting random noise.
